@@ -19,7 +19,7 @@
 
 // checkPrime([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 
-//Medium Jalynn
+//Medium 2 Jalynn
 
 function anagram(x, z) {
     let len1 = x.length;
